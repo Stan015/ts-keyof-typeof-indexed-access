@@ -12,7 +12,7 @@ type Person = {
   gender: string;
 };
 
-type PersonKeys = keyof Person; // type PersonKeys = "name" | "age" | "gender"
+type PersonKeys = Person; // type PersonKeys = "name" | "age" | "gender"
 //
 
 type ReadonlyPerson = {

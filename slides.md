@@ -22,7 +22,7 @@ mdc: true
 
 # Learn TypeScript
 
-## Topic: keyof, typeof, and Index Access Types
+## Topic: keyof, typeof, and Indexed Access Types
 
 Presented by Stanley Azi
 
